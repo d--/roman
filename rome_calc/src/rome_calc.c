@@ -1,7 +1,7 @@
 #include <stddef.h>
 #include "rome_calc.h"
 #include "rome_calc_err.h"
-#include "roman.h"
+#include "../../roman/src/roman.h"
 
 enum {
     ROME_CALC_ADD_OP,
